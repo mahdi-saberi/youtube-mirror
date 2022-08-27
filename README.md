@@ -6,6 +6,10 @@ How to install php in Winows, Linux, Mac [how to install php](https://yourblogco
 
 do not forget to install **lib curl and json** for php
 
+for ubuntu php7.4 you can use these commands
+```
+sudo apt install php7.4-curl php7.4-json
+```
 
 
 
